@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1512908995 source:f:\spoj\task1210\spoj7586_numofpal.cpp
-
-1512903705 source:f:\spoj\task1210\spoj7586_numofpaltrue.cpp
-
-1512912422 source:f:\spoj\task1210\spoj7386_activ.cpp
-	<cstdio>
-	<algorithm>
-
