@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="task1203" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/task1203" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/task1203" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="MSE06H_Japan.cpp" />
+		<Unit filename="SPOJ41_PlayOnWords.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="SPOJ4200_HamsterFlight.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="SPOJ4206_FastMaximumMatching.cpp" />
+		<Unit filename="SPOJ4259_Pilots.cpp" />
+		<Unit filename="SPOJ5240.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="SPOJ5449_Seinfeld.cpp" />
+		<Unit filename="SPOJ5450_TilesOfTetris,Not!.cpp" />
+		<Unit filename="SPOJ5451_NotSoFlatAfterAll.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="SPOJ5699_TheLastDigitRe-visited.cpp" />
+		<Unit filename="SPOJ7406_BeehiveNumbers.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="SPOJ7424_GirlsAndBoys.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="SPOJ7430_TowerOfHanoi-Revisited.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="SPOJ7588_WiseAndMiser.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="SPOJ_5295AdjacentBitCounts.cpp" />
+		<Unit filename="SPOj41DATA.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="data.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="test.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1512664183 source:f:\spoj\task1203\mse06h_japan.cpp
+
+1512470150 source:f:\spoj\task1203\matching_fastmaximummatching.cpp
+	<cstdio>
+	<cstring>
+	<queue>
+
+1512540280 source:f:\spoj\task1203\spoj4206_fastmaximummatching.cpp
+
+1512476977 source:f:\spoj\task1203\data.cpp
+
+1512647080 source:f:\spoj\task1203\spoj5699_thelastdigitre-visited.cpp
+
+1512655187 source:f:\spoj\task1203\spoj4259_pilots.cpp
+
+1512666810 source:f:\spoj\task1203\spoj5240.cpp
+
+1512546563 source:f:\spoj\task1203\spoj5449_seinfeld.cpp
+
+1512546560 source:f:\spoj\task1203\spoj5450_tilesoftetris,not!.cpp
+
+1512657260 source:f:\spoj\task1203\spoj_5295adjacentbitcounts.cpp
+
+1512669971 source:f:\spoj\task1203\spoj5451_notsoflatafterall.cpp
+
+1512671480 source:f:\spoj\task1203\spoj7406_beehivenumbers.cpp
+
+1512672604 source:f:\spoj\task1203\spoj7424_girlsandboys.cpp
+
+1512674932 source:f:\spoj\task1203\spoj7430_towerofhanoi-revisited.cpp
+
+1512738324 source:f:\spoj\task1203\spoj7588_wiseandmiser.cpp
+
+1512746406 source:f:\spoj\task1203\spoj41_playonwords.cpp
+
+1512746411 source:f:\spoj\task1203\test.cpp
+
+1512744450 source:f:\spoj\task1203\spoj41data.cpp
+
+1512747126 source:f:\spoj\task1203\spoj4200_hamsterflight.cpp
+	<cstdio>
+	<cmath>
+

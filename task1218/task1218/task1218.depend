@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1513612807 source:f:\spoj\task1218\task1218\spoj7555_harows.cpp
+
+1513668583 source:f:\spoj\task1218\task1218\spoj4454_brckts2.cpp
+
+1513680006 source:f:\spoj\task1218\task1218\spoj4273_tttable.cpp
+
+1513687295 source:f:\spoj\task1218\task1218\spoj4235_queen.cpp
+
+1513715201 source:f:\spoj\task1218\task1218\spoj4227_mse06i.cpp
+	<cstdio>
+	<cstring>
+	<vector>
+	<queue>
+

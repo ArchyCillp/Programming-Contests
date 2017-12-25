@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1513340403 source:f:\spoj\task1215\spoj7423_filrtest\spoj7423_filrtest.cpp
+
+1513342326 source:f:\spoj\task1215\spoj7423_filrtest\spoj7405_pancakes.cpp
+	<cstdio>
+
+1513360778 source:f:\spoj\task1215\spoj7423_filrtest\spoj4303_ae2a.cpp
+	<iostream>
+	<cstring>
+	<cmath>
+
+1513446089 source:f:\spoj\task1215\spoj7423_filrtest\spoj7487_flib.cpp
+
+1513522976 source:f:\spoj\task1215\spoj7423_filrtest\spoj4354_twinsnow.cpp
+
+1513512350 source:f:\spoj\task1215\spoj7423_filrtest\kmptst.cpp
+
+1513581362 source:f:\spoj\task1215\spoj7423_filrtest\spoj4194_mse08g.cpp
+
+1513534858 source:f:\spoj\task1215\spoj7423_filrtest\test.cpp
+
+1513586787 source:f:\spoj\task1215\spoj7423_filrtest\spoj4302_ae2b.cpp
+	<cstdio>
+	<cmath>
+
